@@ -1,2 +1,2 @@
 # eet
-Emergency Engine Telegraph
+Emergency Engine Telegraph model
